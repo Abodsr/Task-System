@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dadsa\\source\\repos\\MiniProject1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{514F5FFA-3FC8-485C-BEEB-3C49C3AA906B}|MiniProject1\\MiniProject1.csproj|c:\\users\\dadsa\\source\\repos\\miniproject1\\miniproject1\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514F5FFA-3FC8-485C-BEEB-3C49C3AA906B}|MiniProject1\\MiniProject1.csproj|solutionrelative:miniproject1\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514F5FFA-3FC8-485C-BEEB-3C49C3AA906B}|MiniProject1\\MiniProject1.csproj|c:\\users\\dadsa\\source\\repos\\miniproject1\\miniproject1\\dto\\usertask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514F5FFA-3FC8-485C-BEEB-3C49C3AA906B}|MiniProject1\\MiniProject1.csproj|solutionrelative:miniproject1\\dto\\usertask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514F5FFA-3FC8-485C-BEEB-3C49C3AA906B}|MiniProject1\\MiniProject1.csproj|c:\\users\\dadsa\\source\\repos\\miniproject1\\miniproject1\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514F5FFA-3FC8-485C-BEEB-3C49C3AA906B}|MiniProject1\\MiniProject1.csproj|solutionrelative:miniproject1\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514F5FFA-3FC8-485C-BEEB-3C49C3AA906B}|MiniProject1\\MiniProject1.csproj|c:\\users\\dadsa\\source\\repos\\miniproject1\\miniproject1\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514F5FFA-3FC8-485C-BEEB-3C49C3AA906B}|MiniProject1\\MiniProject1.csproj|solutionrelative:miniproject1\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514F5FFA-3FC8-485C-BEEB-3C49C3AA906B}|MiniProject1\\MiniProject1.csproj|c:\\users\\dadsa\\source\\repos\\miniproject1\\miniproject1\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514F5FFA-3FC8-485C-BEEB-3C49C3AA906B}|MiniProject1\\MiniProject1.csproj|solutionrelative:miniproject1\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514F5FFA-3FC8-485C-BEEB-3C49C3AA906B}|MiniProject1\\MiniProject1.csproj|c:\\users\\dadsa\\source\\repos\\miniproject1\\miniproject1\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514F5FFA-3FC8-485C-BEEB-3C49C3AA906B}|MiniProject1\\MiniProject1.csproj|solutionrelative:miniproject1\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514F5FFA-3FC8-485C-BEEB-3C49C3AA906B}|MiniProject1\\MiniProject1.csproj|c:\\users\\dadsa\\source\\repos\\miniproject1\\miniproject1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514F5FFA-3FC8-485C-BEEB-3C49C3AA906B}|MiniProject1\\MiniProject1.csproj|solutionrelative:miniproject1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514F5FFA-3FC8-485C-BEEB-3C49C3AA906B}|MiniProject1\\MiniProject1.csproj|c:\\users\\dadsa\\source\\repos\\miniproject1\\miniproject1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514F5FFA-3FC8-485C-BEEB-3C49C3AA906B}|MiniProject1\\MiniProject1.csproj|solutionrelative:miniproject1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\dadsa\\source\\repos\\MiniProject1\\MiniProject1\\DTO\\UserDto.cs",
+              "RelativeDocumentMoniker": "MiniProject1\\DTO\\UserDto.cs",
+              "ToolTip": "C:\\Users\\dadsa\\source\\repos\\MiniProject1\\MiniProject1\\DTO\\UserDto.cs",
+              "RelativeToolTip": "MiniProject1\\DTO\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T21:09:58.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserTask.cs",
+              "DocumentMoniker": "C:\\Users\\dadsa\\source\\repos\\MiniProject1\\MiniProject1\\DTO\\UserTask.cs",
+              "RelativeDocumentMoniker": "MiniProject1\\DTO\\UserTask.cs",
+              "ToolTip": "C:\\Users\\dadsa\\source\\repos\\MiniProject1\\MiniProject1\\DTO\\UserTask.cs",
+              "RelativeToolTip": "MiniProject1\\DTO\\UserTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T20:42:13.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "C:\\Users\\dadsa\\source\\repos\\MiniProject1\\MiniProject1\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "MiniProject1\\Controllers\\TasksController.cs",
+              "ToolTip": "C:\\Users\\dadsa\\source\\repos\\MiniProject1\\MiniProject1\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "MiniProject1\\Controllers\\TasksController.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAYwFUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T14:25:06.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\dadsa\\source\\repos\\MiniProject1\\MiniProject1\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "MiniProject1\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\dadsa\\source\\repos\\MiniProject1\\MiniProject1\\Controllers\\UserController.cs",
+              "RelativeToolTip": "MiniProject1\\Controllers\\UserController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAuwDUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T02:14:54.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dadsa\\source\\repos\\MiniProject1\\MiniProject1\\Program.cs",
+              "RelativeDocumentMoniker": "MiniProject1\\Program.cs",
+              "ToolTip": "C:\\Users\\dadsa\\source\\repos\\MiniProject1\\MiniProject1\\Program.cs",
+              "RelativeToolTip": "MiniProject1\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T02:05:28.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\dadsa\\source\\repos\\MiniProject1\\MiniProject1\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MiniProject1\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\dadsa\\source\\repos\\MiniProject1\\MiniProject1\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "MiniProject1\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T02:02:59.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\dadsa\\source\\repos\\MiniProject1\\MiniProject1\\Models\\Task.cs",
+              "RelativeDocumentMoniker": "MiniProject1\\Models\\Task.cs",
+              "ToolTip": "C:\\Users\\dadsa\\source\\repos\\MiniProject1\\MiniProject1\\Models\\Task.cs",
+              "RelativeToolTip": "MiniProject1\\Models\\Task.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwBAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T01:58:54.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\dadsa\\source\\repos\\MiniProject1\\MiniProject1\\Models\\User.cs",
+              "RelativeDocumentMoniker": "MiniProject1\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\dadsa\\source\\repos\\MiniProject1\\MiniProject1\\Models\\User.cs",
+              "RelativeToolTip": "MiniProject1\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T01:58:13.62Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
