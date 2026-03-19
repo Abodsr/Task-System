@@ -166,3 +166,4 @@ C:\Users\dadsa\source\repos\MiniProject1\MiniProject1\obj\Debug\net9.0\ref\MiniP
 C:\Users\dadsa\source\repos\MiniProject1\MiniProject1\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\dadsa\source\repos\MiniProject1\MiniProject1\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\dadsa\source\repos\MiniProject1\MiniProject1\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\dadsa\source\repos\MiniProject1\MiniProject1\obj\Debug\net9.0\MiniProject1.sourcelink.json

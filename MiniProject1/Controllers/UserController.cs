@@ -49,11 +49,11 @@ namespace MiniProject1.Controllers
             if (user != null)
             {
                 User user1 = new User();
-                user1.Name = user.name;
+                user1.Name = user.Name;
             
                 _context.Users.Add(user1);
                 _context.SaveChanges();
-                return Ok(user);
+                return Ok(user1);
             }
             else
             {

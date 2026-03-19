@@ -3,32 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\dadsa\\source\\repos\\MiniProject1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{514F5FFA-3FC8-485C-BEEB-3C49C3AA906B}|MiniProject1\\MiniProject1.csproj|c:\\users\\dadsa\\source\\repos\\miniproject1\\miniproject1\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{514F5FFA-3FC8-485C-BEEB-3C49C3AA906B}|MiniProject1\\MiniProject1.csproj|solutionrelative:miniproject1\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dadsa\\source\\repos\\MiniProject1\\MiniProject1\\Migrations\\20260319020304_Validation2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MiniProject1\\Migrations\\20260319020304_Validation2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{514F5FFA-3FC8-485C-BEEB-3C49C3AA906B}|MiniProject1\\MiniProject1.csproj|c:\\users\\dadsa\\source\\repos\\miniproject1\\miniproject1\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{514F5FFA-3FC8-485C-BEEB-3C49C3AA906B}|MiniProject1\\MiniProject1.csproj|solutionrelative:miniproject1\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{514F5FFA-3FC8-485C-BEEB-3C49C3AA906B}|MiniProject1\\MiniProject1.csproj|c:\\users\\dadsa\\source\\repos\\miniproject1\\miniproject1\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514F5FFA-3FC8-485C-BEEB-3C49C3AA906B}|MiniProject1\\MiniProject1.csproj|solutionrelative:miniproject1\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{514F5FFA-3FC8-485C-BEEB-3C49C3AA906B}|MiniProject1\\MiniProject1.csproj|c:\\users\\dadsa\\source\\repos\\miniproject1\\miniproject1\\dto\\usertask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{514F5FFA-3FC8-485C-BEEB-3C49C3AA906B}|MiniProject1\\MiniProject1.csproj|solutionrelative:miniproject1\\dto\\usertask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{514F5FFA-3FC8-485C-BEEB-3C49C3AA906B}|MiniProject1\\MiniProject1.csproj|c:\\users\\dadsa\\source\\repos\\miniproject1\\miniproject1\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{514F5FFA-3FC8-485C-BEEB-3C49C3AA906B}|MiniProject1\\MiniProject1.csproj|solutionrelative:miniproject1\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{514F5FFA-3FC8-485C-BEEB-3C49C3AA906B}|MiniProject1\\MiniProject1.csproj|c:\\users\\dadsa\\source\\repos\\miniproject1\\miniproject1\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514F5FFA-3FC8-485C-BEEB-3C49C3AA906B}|MiniProject1\\MiniProject1.csproj|solutionrelative:miniproject1\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{514F5FFA-3FC8-485C-BEEB-3C49C3AA906B}|MiniProject1\\MiniProject1.csproj|c:\\users\\dadsa\\source\\repos\\miniproject1\\miniproject1\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{514F5FFA-3FC8-485C-BEEB-3C49C3AA906B}|MiniProject1\\MiniProject1.csproj|solutionrelative:miniproject1\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{514F5FFA-3FC8-485C-BEEB-3C49C3AA906B}|MiniProject1\\MiniProject1.csproj|c:\\users\\dadsa\\source\\repos\\miniproject1\\miniproject1\\migrations\\20260318144057_userignoreintaskclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514F5FFA-3FC8-485C-BEEB-3C49C3AA906B}|MiniProject1\\MiniProject1.csproj|solutionrelative:miniproject1\\migrations\\20260318144057_userignoreintaskclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514F5FFA-3FC8-485C-BEEB-3C49C3AA906B}|MiniProject1\\MiniProject1.csproj|c:\\users\\dadsa\\source\\repos\\miniproject1\\miniproject1\\migrations\\20260319013314_addvalidation1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514F5FFA-3FC8-485C-BEEB-3C49C3AA906B}|MiniProject1\\MiniProject1.csproj|solutionrelative:miniproject1\\migrations\\20260319013314_addvalidation1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{514F5FFA-3FC8-485C-BEEB-3C49C3AA906B}|MiniProject1\\MiniProject1.csproj|c:\\users\\dadsa\\source\\repos\\miniproject1\\miniproject1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{514F5FFA-3FC8-485C-BEEB-3C49C3AA906B}|MiniProject1\\MiniProject1.csproj|solutionrelative:miniproject1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{514F5FFA-3FC8-485C-BEEB-3C49C3AA906B}|MiniProject1\\MiniProject1.csproj|c:\\users\\dadsa\\source\\repos\\miniproject1\\miniproject1\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{514F5FFA-3FC8-485C-BEEB-3C49C3AA906B}|MiniProject1\\MiniProject1.csproj|solutionrelative:miniproject1\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{514F5FFA-3FC8-485C-BEEB-3C49C3AA906B}|MiniProject1\\MiniProject1.csproj|c:\\users\\dadsa\\source\\repos\\miniproject1\\miniproject1\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514F5FFA-3FC8-485C-BEEB-3C49C3AA906B}|MiniProject1\\MiniProject1.csproj|solutionrelative:miniproject1\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{514F5FFA-3FC8-485C-BEEB-3C49C3AA906B}|MiniProject1\\MiniProject1.csproj|c:\\users\\dadsa\\source\\repos\\miniproject1\\miniproject1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,26 +70,65 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20260319020304_Validation2.cs",
+              "DocumentMoniker": "C:\\Users\\dadsa\\source\\repos\\MiniProject1\\MiniProject1\\Migrations\\20260319020304_Validation2.cs",
+              "RelativeDocumentMoniker": "MiniProject1\\Migrations\\20260319020304_Validation2.cs",
+              "ToolTip": "C:\\Users\\dadsa\\source\\repos\\MiniProject1\\MiniProject1\\Migrations\\20260319020304_Validation2.cs",
+              "RelativeToolTip": "MiniProject1\\Migrations\\20260319020304_Validation2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T02:03:04.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "20260318144057_UserIgnoreInTaskClass.cs",
+              "DocumentMoniker": "C:\\Users\\dadsa\\source\\repos\\MiniProject1\\MiniProject1\\Migrations\\20260318144057_UserIgnoreInTaskClass.cs",
+              "RelativeDocumentMoniker": "MiniProject1\\Migrations\\20260318144057_UserIgnoreInTaskClass.cs",
+              "ToolTip": "C:\\Users\\dadsa\\source\\repos\\MiniProject1\\MiniProject1\\Migrations\\20260318144057_UserIgnoreInTaskClass.cs",
+              "RelativeToolTip": "MiniProject1\\Migrations\\20260318144057_UserIgnoreInTaskClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T01:57:30.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20260319013314_addValidation1.cs",
+              "DocumentMoniker": "C:\\Users\\dadsa\\source\\repos\\MiniProject1\\MiniProject1\\Migrations\\20260319013314_addValidation1.cs",
+              "RelativeDocumentMoniker": "MiniProject1\\Migrations\\20260319013314_addValidation1.cs",
+              "ToolTip": "C:\\Users\\dadsa\\source\\repos\\MiniProject1\\MiniProject1\\Migrations\\20260319013314_addValidation1.cs",
+              "RelativeToolTip": "MiniProject1\\Migrations\\20260319013314_addValidation1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T01:33:14.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "UserDto.cs",
               "DocumentMoniker": "C:\\Users\\dadsa\\source\\repos\\MiniProject1\\MiniProject1\\DTO\\UserDto.cs",
               "RelativeDocumentMoniker": "MiniProject1\\DTO\\UserDto.cs",
-              "ToolTip": "C:\\Users\\dadsa\\source\\repos\\MiniProject1\\MiniProject1\\DTO\\UserDto.cs*",
-              "RelativeToolTip": "MiniProject1\\DTO\\UserDto.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\dadsa\\source\\repos\\MiniProject1\\MiniProject1\\DTO\\UserDto.cs",
+              "RelativeToolTip": "MiniProject1\\DTO\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-18T21:09:58.452Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "UserTask.cs",
               "DocumentMoniker": "C:\\Users\\dadsa\\source\\repos\\MiniProject1\\MiniProject1\\DTO\\UserTask.cs",
               "RelativeDocumentMoniker": "MiniProject1\\DTO\\UserTask.cs",
               "ToolTip": "C:\\Users\\dadsa\\source\\repos\\MiniProject1\\MiniProject1\\DTO\\UserTask.cs",
               "RelativeToolTip": "MiniProject1\\DTO\\UserTask.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-18T20:42:13.48Z",
               "EditorCaption": ""
@@ -88,29 +139,29 @@
               "Title": "TasksController.cs",
               "DocumentMoniker": "C:\\Users\\dadsa\\source\\repos\\MiniProject1\\MiniProject1\\Controllers\\TasksController.cs",
               "RelativeDocumentMoniker": "MiniProject1\\Controllers\\TasksController.cs",
-              "ToolTip": "C:\\Users\\dadsa\\source\\repos\\MiniProject1\\MiniProject1\\Controllers\\TasksController.cs*",
-              "RelativeToolTip": "MiniProject1\\Controllers\\TasksController.cs*",
-              "ViewState": "AgIAAE0AAAAAAAAAAAAYwFUAAAAjAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\dadsa\\source\\repos\\MiniProject1\\MiniProject1\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "MiniProject1\\Controllers\\TasksController.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAYwHEAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-18T14:25:06.889Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\dadsa\\source\\repos\\MiniProject1\\MiniProject1\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "MiniProject1\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\dadsa\\source\\repos\\MiniProject1\\MiniProject1\\Controllers\\UserController.cs*",
-              "RelativeToolTip": "MiniProject1\\Controllers\\UserController.cs*",
-              "ViewState": "AgIAACQAAAAAAAAAAAAuwC8AAAAJAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\dadsa\\source\\repos\\MiniProject1\\MiniProject1\\Controllers\\UserController.cs",
+              "RelativeToolTip": "MiniProject1\\Controllers\\UserController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAWwDcAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-18T02:14:54.664Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\dadsa\\source\\repos\\MiniProject1\\MiniProject1\\Program.cs",
               "RelativeDocumentMoniker": "MiniProject1\\Program.cs",
@@ -118,12 +169,11 @@
               "RelativeToolTip": "MiniProject1\\Program.cs",
               "ViewState": "AgIAABcAAAAAAAAAAAAwwCoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-18T02:05:28.587Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-18T02:05:28.587Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\dadsa\\source\\repos\\MiniProject1\\MiniProject1\\Models\\AppDbContext.cs",
               "RelativeDocumentMoniker": "MiniProject1\\Models\\AppDbContext.cs",
@@ -131,31 +181,30 @@
               "RelativeToolTip": "MiniProject1\\Models\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-18T02:02:59.361Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-18T02:02:59.361Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Task.cs",
               "DocumentMoniker": "C:\\Users\\dadsa\\source\\repos\\MiniProject1\\MiniProject1\\Models\\Task.cs",
               "RelativeDocumentMoniker": "MiniProject1\\Models\\Task.cs",
               "ToolTip": "C:\\Users\\dadsa\\source\\repos\\MiniProject1\\MiniProject1\\Models\\Task.cs",
               "RelativeToolTip": "MiniProject1\\Models\\Task.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAwwBAAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowBAAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-18T01:58:54.384Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\dadsa\\source\\repos\\MiniProject1\\MiniProject1\\Models\\User.cs",
               "RelativeDocumentMoniker": "MiniProject1\\Models\\User.cs",
               "ToolTip": "C:\\Users\\dadsa\\source\\repos\\MiniProject1\\MiniProject1\\Models\\User.cs",
               "RelativeToolTip": "MiniProject1\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-18T01:58:13.62Z",
               "EditorCaption": ""

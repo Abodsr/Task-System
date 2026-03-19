@@ -7,17 +7,23 @@
     "IsController": true,
     "Order": 0,
     "Parameters": [],
-    "ReturnTypes": [
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MiniProject1.Controllers.TasksController",
+    "Method": "AddTask",
+    "RelativePath": "api/Tasks",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
       {
-        "Type": "System.Collections.Generic.List\u00601[[MiniProject1.Models.Task, MiniProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
+        "Name": "task",
+        "Type": "MiniProject1.DTO.UserTask",
+        "IsRequired": true
       }
-    ]
+    ],
+    "ReturnTypes": []
   },
   {
     "ContainingType": "MiniProject1.Controllers.TasksController",
@@ -37,7 +43,7 @@
   },
   {
     "ContainingType": "MiniProject1.Controllers.TasksController",
-    "Method": "UpdateeTask",
+    "Method": "UpdateTask",
     "RelativePath": "api/Tasks/{TaskId}",
     "HttpMethod": "PUT",
     "IsController": true,
@@ -70,37 +76,6 @@
         "IsRequired": true
       }
     ],
-    "ReturnTypes": [
-      {
-        "Type": "System.Collections.Generic.List\u00601[[MiniProject1.Models.Task, MiniProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
-  },
-  {
-    "ContainingType": "MiniProject1.Controllers.TasksController",
-    "Method": "AddTask",
-    "RelativePath": "api/Tasks/{UserId}",
-    "HttpMethod": "POST",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "UserId",
-        "Type": "System.Int32",
-        "IsRequired": true
-      },
-      {
-        "Name": "task",
-        "Type": "MiniProject1.DTO.UserTask",
-        "IsRequired": true
-      }
-    ],
     "ReturnTypes": []
   },
   {
@@ -117,22 +92,12 @@
         "IsRequired": true
       }
     ],
-    "ReturnTypes": [
-      {
-        "Type": "System.Collections.Generic.List\u00601[[MiniProject1.Models.Task, MiniProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
+    "ReturnTypes": []
   },
   {
     "ContainingType": "MiniProject1.Controllers.TasksController",
     "Method": "GetTasks",
-    "RelativePath": "api/Tasks/SearchTask/{Keyword}",
+    "RelativePath": "api/Tasks/SearchTask",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -140,20 +105,10 @@
       {
         "Name": "Keyword",
         "Type": "System.String",
-        "IsRequired": true
+        "IsRequired": false
       }
     ],
-    "ReturnTypes": [
-      {
-        "Type": "System.Collections.Generic.List\u00601[[MiniProject1.Models.Task, MiniProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
+    "ReturnTypes": []
   },
   {
     "ContainingType": "MiniProject1.Controllers.UserController",
@@ -163,17 +118,7 @@
     "IsController": true,
     "Order": 0,
     "Parameters": [],
-    "ReturnTypes": [
-      {
-        "Type": "System.Collections.Generic.List\u00601[[MiniProject1.Models.User, MiniProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
+    "ReturnTypes": []
   },
   {
     "ContainingType": "MiniProject1.Controllers.UserController",
@@ -184,19 +129,9 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "Id",
-        "Type": "System.Int32",
-        "IsRequired": false
-      },
-      {
-        "Name": "Name",
-        "Type": "System.String",
-        "IsRequired": false
-      },
-      {
-        "Name": "Tasks",
-        "Type": "System.Collections.Generic.List\u00601[[MiniProject1.Models.Task, MiniProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
-        "IsRequired": false
+        "Name": "user",
+        "Type": "MiniProject1.DTO.UserDto",
+        "IsRequired": true
       }
     ],
     "ReturnTypes": []
@@ -210,26 +145,16 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "Id",
-        "Type": "System.Int32",
-        "IsRequired": false
-      },
-      {
-        "Name": "Name",
-        "Type": "System.String",
-        "IsRequired": false
-      },
-      {
-        "Name": "Tasks",
-        "Type": "System.Collections.Generic.List\u00601[[MiniProject1.Models.Task, MiniProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
-        "IsRequired": false
+        "Name": "user",
+        "Type": "MiniProject1.Models.User",
+        "IsRequired": true
       }
     ],
     "ReturnTypes": []
   },
   {
     "ContainingType": "MiniProject1.Controllers.UserController",
-    "Method": "GetUsers",
+    "Method": "GetUserById",
     "RelativePath": "api/User/{id}",
     "HttpMethod": "GET",
     "IsController": true,

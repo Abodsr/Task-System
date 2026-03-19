@@ -17,49 +17,62 @@ namespace MiniProject1.Controllers
 
         }
         [HttpGet]
-        public List<Models.Task> GetTasks()
+        public IActionResult GetTasks()
         {
             var Tasks= _context.Tasks.ToList();
-            return Tasks;
+            return Ok(Tasks);
 
         }
-        [HttpGet("SearchTask/{Keyword}")]
-        public List<Models.Task> GetTasks(string Keyword)
+        [HttpGet("SearchTask")]
+        public IActionResult GetTasks(string ?Keyword)
         {
-            var Tasks = _context.Tasks.Where(x=>x.Title.Contains(Keyword)).ToList();
-            
-                return Tasks;
-            
+            if (Keyword == null)
+            {
+                return BadRequest("empty Keyword");
+            }
+            else 
+            { 
+                var Tasks = _context.Tasks.Where(x => x.Title.Contains(Keyword)).ToList();
+                return Ok(Tasks);
+            }
+
 
         }
         [HttpGet("{userid}")]
-        public List<Models.Task> GetTasksforUser(int userid)
+        public IActionResult GetTasksforUser(int userid)
         {
             var Tasks = _context.Tasks.Where(x=>x.UserID==userid).ToList();
-            return Tasks;
+            return Ok(Tasks);
+
 
         }
         [HttpGet("GetCompletedTasks/{userid}")]
-        public List<Models.Task> GetCompletedTasksforUser(int userid)
+        public IActionResult GetCompletedTasksforUser(int userid)
         {
             var Tasks = _context.Tasks.Where(x => x.UserID == userid&&x.IsCompleted==true).ToList();
-            return Tasks;
+            return Ok(Tasks);
+
 
         }
-        [HttpPost("{UserId}")]
+        [HttpPost]
 
-        public IActionResult AddTask(int UserId,UserTask task)
+        public IActionResult AddTask(UserTask task)
         {
-            var user =_context.Users.Where(x=>x.Id==UserId).FirstOrDefault();
+            var user =_context.Users.FirstOrDefault(x => x.Id == task.UserID);
             if(user==null)
             {
                 return BadRequest("User Not Exit");
             }
+            else if(!ModelState.IsValid)
+            {
+                return BadRequest("Invalid Data");
+            }
             else
             {
                 Models.Task task1 = new Models.Task();
-                task1.Title =task.Title;    
-                task1.Description =task.Description;
+                task1.Title = task.Title;
+                task1.UserID = task.UserID;
+                task1.Description = task.Description;
                 task1.IsCompleted = task.IsCompleted;
                 user.Tasks.Add(task1);
                 _context.SaveChanges();
@@ -85,17 +98,20 @@ namespace MiniProject1.Controllers
 
         public IActionResult UpdateTask(int TaskId,UserTask task1)
         {
-            var task = _context.Tasks.Where(x => x.Id == TaskId).FirstOrDefault();
+            var task = _context.Tasks.FirstOrDefault(x => x.Id == TaskId);
             if (task == null)
             {
                 return NotFound("Task is not Exit");
             }
             else
             {
-                
-                task.Title = task1.Title;
-                task.Description = task1.Description;
-                task.IsCompleted = task1.IsCompleted;
+
+                if (task1.Title != null)
+                    task.Title = task1.Title;
+                if (task1.Description != null)
+                    task.Description = task.Description;
+                if(task1.IsCompleted.HasValue)
+                    task.IsCompleted = task1.IsCompleted;
                 _context.SaveChanges();
                 return Ok(task);
             }
